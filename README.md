@@ -4,7 +4,7 @@
 This project analyzes Fitbit smart device data to identify behavior patterns that can help inform Bellabeat's marketing strategy. The goal was to understand how consumers use non-Bellabeat smart devices and translate those findings into practical business recommendations for Bellabeat.
 
 ## Dashboard
-![Bellabeat Dashboard](Dashboard 1.png)
+![Bellabeat Dashboard](dashboard 1.png)
 
 ## Interactive Dashboard
 https://public.tableau.com/app/profile/joel.joseph8310/viz/Book4_17731059573220/Dashboard1
