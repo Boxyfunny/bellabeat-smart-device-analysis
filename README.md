@@ -64,16 +64,6 @@ The available data did not show a strong obvious relationship between steps and 
 3. **Use engagement timing strategically**  
    Since activity tends to happen between morning and evening hours, Bellabeat can time app notifications and wellness prompts to align with peak activity windows.
 
-## Tableau Dashboard
-Suggested dashboard components:
-- Average Daily Steps KPI
-- Average Sleep Duration KPI
-- Steps by Weekday
-- Weekday vs Weekend Activity
-- Activity by Hour
-- Activity Intensity Breakdown
-- Device Usage Consistency
-
 ## Files Included
 - `bellabeat_queries.sql` — SQL queries used for cleaning and analysis
 - `bellabeat_case_study_report.docx` — written project report
